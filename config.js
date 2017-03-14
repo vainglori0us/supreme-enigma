@@ -11,8 +11,17 @@ config = {
     // When running Ghost in the wild, use the production environment.
     // Configure your URL and mail settings here
     production: {
-        url: 'http://my-ghost-blog.com',
-        mail: {},
+        url: 'http://blog.vainglori0us.com',
+        // mail: {
+        // transport: 'SMTP',
+        //     options: {
+        //       service: 'Mailgun',
+        //       auth: {
+        //         user:'',
+        //         pass:'',
+        //       }
+        //     }
+        // },
         database: {
             client: 'sqlite3',
             connection: {
@@ -41,16 +50,16 @@ config = {
         // Example mail config
         // Visit http://support.ghost.org/mail for instructions
         // ```
-        //  mail: {
-        //      transport: 'SMTP',
-        //      options: {
-        //          service: 'Mailgun',
-        //          auth: {
-        //              user: '', // mailgun username
-        //              pass: ''  // mailgun password
-        //          }
-        //      }
-        //  },
+         mail: {
+             transport: 'SMTP',
+             options: {
+                 service: 'Mailgun',
+                 auth: {
+                     user: 'postmaster@sandbox09ba14ae2e1a4dbfa7d8bf3fef08a353.mailgun.org', // mailgun username
+                     pass: 'eca67b0f828ab219118bf75354bc8aa4'  // mailgun password
+                 }
+             }
+         },
         // ```
 
         // #### Database
