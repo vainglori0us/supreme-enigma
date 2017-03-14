@@ -1,66 +1,15 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0"><channel><title>Omicron Citizen Series</title><description>Ruminations on music, coding and growing pains.</description><link>http://localhost:2368/</link><generator>Ghost 0.11</generator><lastBuildDate>Tue, 14 Mar 2017 20:02:04 GMT</lastBuildDate><atom:link href="http://localhost:2368/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>Welcome to Ghost</title><description>&lt;p&gt;You're live! Nice. We've put together a little post to introduce you to the Ghost editor and get you started. You can manage your content by signing in to the admin area at &lt;code&gt;&amp;lt;your blog URL&amp;gt;/ghost/&lt;/code&gt;. When you arrive, you can select this post from a list&lt;/p&gt;</description><link>http://localhost:2368/welcome-to-ghost/</link><guid isPermaLink="false">f7066c0c-5466-4647-b34a-f5a71118dc42</guid><category>Getting Started</category><dc:creator>Vainglorious Media</dc:creator><pubDate>Tue, 14 Mar 2017 06:07:25 GMT</pubDate><content:encoded>&lt;p&gt;You're live! Nice. We've put together a little post to introduce you to the Ghost editor and get you started. You can manage your content by signing in to the admin area at &lt;code&gt;&amp;lt;your blog URL&amp;gt;/ghost/&lt;/code&gt;. When you arrive, you can select this post from a list on the left and see a preview of it on the right. Click the little pencil icon at the top of the preview to edit this post and read the next section!&lt;/p&gt;
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0"><channel><title>Omicron Citizen Series</title><description>Ruminations on music, coding and growing pains.</description><link>http://localhost:2368/</link><generator>Ghost 0.11</generator><lastBuildDate>Tue, 14 Mar 2017 23:28:05 GMT</lastBuildDate><atom:link href="http://localhost:2368/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>One Hurdle at a Time</title><description>Recently I put my first beat up for sale on BeatStars. On Monday I released my first beat video for that beat on YouTube. Trials and tribulations, y'all.</description><link>http://localhost:2368/one-hurdle-at-a-time/</link><guid isPermaLink="false">c84820c3-8bb4-4033-bd14-f34f7b358889</guid><category>video editing</category><category>beat video</category><category>problem solving</category><category>troubleshooting</category><category>adobe</category><category>premiere pro</category><category>after effects</category><category>beatmaking</category><category>youtube</category><category>networking</category><dc:creator>Vainglorious</dc:creator><pubDate>Tue, 14 Mar 2017 22:30:00 GMT</pubDate><media:content url="http://localhost:2368/content/images/2017/03/leandro-puca-184754.jpg" medium="image"/><content:encoded>&lt;img src="http://localhost:2368/content/images/2017/03/leandro-puca-184754.jpg" alt="One Hurdle at a Time"&gt;&lt;p&gt;This past week, I've been pondering the usefulness of YouTube because it's incredibly difficult to break through to a wide audience at this point but I did find myself using it to be seen on other people's videos and kind of start building out a network with other producers. With that in mind, I figure once I've done enough networking, people will start coming to my channel and it might be a bit weird for them to find it empty. So yesterday finds me making my first beat video for YouTube. &lt;br&gt;
+And... to summarize, painful is the first word I can think of. Seriously. I opened the video editor, having only used it briefly for looping or chopping shorter videos together. My first thought is, "well, what do I start with?" I didn't have stock footage. I didn't have anything original so I picked an action-packed episode of this anime. Why anime? Well, I'm a nerd and I love anime and I was hoping to create something that would hold people's attention. My beats are experimental; give me a break. Turns out I really have no idea what I'm doing. I'm looking up shortcuts and how to's for simple stuff every few minutes because I am just lost. Not to mention the mini meltdowns from frustration and sleepiness. Don't even get me started on scrubbing 30 minutes of video for good stuff to use; sometimes there wasn't enough and at other times, I had to make some tough decisions on what would stay. I didn't want to use sequences that were too long lest I call forth the mighty Copyright Strike Hammer of YouTube upon myself. Nobody wants that. &lt;br&gt;
+Did I mention that it's probably already past midnight at that point in my struggle? The night before I was up until at least 3:30am drinking with my family. My nephew had his second birthday party but it was a Saturday so after the kids went down, the adults elected to have some fun, too. So I'm drinking and drinking. By the time I'm ready to go, I'm toasted. But the night is over. I can lay in my bed and get some shut-eye. Sweet. This was a good day. &lt;br&gt;
+Almost. I wake up 9 hours later extremely dehydrated but I say to myself you know I can drink some water, take some Advil and power through it. I've been trying to flesh out this video idea for a week so now it's time for some execution. Needless to say, I am lagging. I barely get anything done. Finally, I go down for a nap and I sleep until like 10:45 that night; maybe later. I get up like holy crap what time is it? The video. I haven't done &lt;em&gt;anything&lt;/em&gt; really. So back to working on the video; past midnight already. &lt;br&gt;
+I'm getting toward the end and I start to feel accomplished until I remember I haven't even touched the FX program &lt;strong&gt;and&lt;/strong&gt; my video was too short when I added the audio playback. So I'm going in trying to quickly add time without messing up my sequence. Okay, 6 seconds left to fill. I can see the light at the end of the tunnel! And I make it but then I remember I didn't leave room for an intro. /headdesk/ &lt;br&gt;
+Had to look up encoder settings for YouTube and watch a few videos. Tim was extremely helpful. &lt;br&gt;
+Encoding. It's 4am now. I have to be up and at 'em at 9 so I can make an appointment at 10. Probably pushing that back. And just when I think I can relax because I've gotten something done, I remember all the other stuff that goes into a song release. I've gotta write a description and decide on some tags, but not too many but with terms that aren't too broad either. I got a thumbnail to adjust (shoutout Foreign for the template). &lt;br&gt;
+I have to say, it was an ordeal. But I'm glad I got through it and I do have my video to show for it plus the experience for future videos. I'll be that much faster next time. But alas, old habits as they say. It's 6:31am (the following day; or is it 2 days later now? I might be delirious) and I haven't been to bed yet. What is my life? &lt;br&gt;
+Well, you've suffered enough. Here's the video. Don't judge me. I'm terrible at "typing" but I'm working on it.  &lt;/p&gt;
 
-&lt;h2 id="gettingstarted"&gt;Getting Started&lt;/h2&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/k8-iGtw1Vb4" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
 
-&lt;p&gt;Ghost uses something called Markdown for writing. Essentially, it's a shorthand way to manage your post formatting as you write!&lt;/p&gt;
+&lt;p&gt;There's so much that goes into being a one man operation. If there are any beatmakers (or video makers) reading this, please share. How did your first video go? If you have any questions or tips, definitely let me know!&lt;/p&gt;
 
-&lt;p&gt;Writing in Markdown is really easy. In the left hand panel of Ghost, you simply write as you normally would. Where appropriate, you can use &lt;em&gt;shortcuts&lt;/em&gt; to &lt;strong&gt;style&lt;/strong&gt; your content. For example, a list:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Item number one&lt;/li&gt;
-&lt;li&gt;Item number two
-&lt;ul&gt;&lt;li&gt;A nested item&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;A final item&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;or with numbers!&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;Remember to buy some milk  &lt;/li&gt;
-&lt;li&gt;Drink the milk  &lt;/li&gt;
-&lt;li&gt;Tweet that I remembered to buy the milk, and drank it&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h3 id="links"&gt;Links&lt;/h3&gt;
-
-&lt;p&gt;Want to link to a source? No problem. If you paste in a URL, like &lt;a href="http://ghost.org"&gt;http://ghost.org&lt;/a&gt; - it'll automatically be linked up. But if you want to customise your anchor text, you can do that too! Here's a link to &lt;a href="http://ghost.org"&gt;the Ghost website&lt;/a&gt;. Neat.&lt;/p&gt;
-
-&lt;h3 id="whataboutimages"&gt;What about Images?&lt;/h3&gt;
-
-&lt;p&gt;Images work too! Already know the URL of the image you want to include in your article? Simply paste it in like this to make it show up:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="https://ghost.org/images/ghost.png" alt="The Ghost Logo"&gt;&lt;/p&gt;
-
-&lt;p&gt;Not sure which image you want to use yet? That's ok too. Leave yourself a descriptive placeholder and keep writing. Come back later and drag and drop the image in to upload:&lt;/p&gt;
-
-&lt;h3 id="quoting"&gt;Quoting&lt;/h3&gt;
-
-&lt;p&gt;Sometimes a link isn't enough, you want to quote someone on what they've said. Perhaps you've started using a new blogging platform and feel the sudden urge to share their slogan? A quote might be just the way to do it!&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Ghost - Just a blogging platform&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id="workingwithcode"&gt;Working with Code&lt;/h3&gt;
-
-&lt;p&gt;Got a streak of geek? We've got you covered there, too. You can write inline &lt;code&gt;&amp;lt;code&amp;gt;&lt;/code&gt; blocks really easily with back ticks. Want to show off something more comprehensive? 4 spaces of indentation gets you there.&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;.awesome-thing {
-    display: block;
-    width: 100%;
-}
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;h3 id="readyforabreak"&gt;Ready for a Break?&lt;/h3&gt;
-
-&lt;p&gt;Throw 3 or more dashes down on any new line and you've got yourself a fancy new divider. Aw yeah.&lt;/p&gt;
-
-&lt;hr&gt;
-
-&lt;h3 id="advancedusage"&gt;Advanced Usage&lt;/h3&gt;
-
-&lt;p&gt;There's one fantastic secret about Markdown. If you want, you can write plain old HTML and it'll still work! Very flexible.&lt;/p&gt;
-
-&lt;p&gt;&lt;input type="text" placeholder="I'm an input field!"&gt;&lt;/p&gt;
-
-&lt;p&gt;That should be enough to get you started. Have fun - and let us know what you think :)&lt;/p&gt;</content:encoded></item></channel></rss>
+&lt;p&gt;Until next time. Don't be a stranger though.&lt;/p&gt;</content:encoded></item></channel></rss>

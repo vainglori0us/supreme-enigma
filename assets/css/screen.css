@@ -1758,8 +1758,8 @@ body:not(.page-template) .post-title {
     margin: 8rem 0 0 0;
     padding: 1rem 15px;
     font-family: "Open Sans", sans-serif;
-    font-size: 1rem;
-    line-height: 1.75em;
+    font-size: 1.2rem;
+    line-height: 2em;
     color: #9E9E9E;
 }
 
@@ -1775,15 +1775,23 @@ body:not(.page-template) .post-title {
 
 .poweredby {
     display: block;
-    width: 45%;
+    width: 33%;
     float: right;
     text-align: right;
 }
 
 .copyright {
     display: block;
-    width: 45%;
+    width: 33%;
     float: left;
+}
+
+
+.social {
+    display: block;
+    width: 50%;
+    float: right;
+
 }
 
 /* Media Query - Equal or less than 800px height */
